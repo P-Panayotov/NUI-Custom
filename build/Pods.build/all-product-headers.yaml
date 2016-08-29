@@ -1,0 +1,590 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/abakus13/Desktop/NUI_Custom/build/Debug-iphonesimulator/NUI.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NUI-Swift.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/build/Debug-iphonesimulator/NUI.framework/Headers/NUI-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUI-umbrella.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/Target Support Files/NUI/NUI-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIAppearance.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/NUIAppearance.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIBarButtonItemRenderer.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Renderers/NUIBarButtonItemRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIButtonRenderer.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Renderers/NUIButtonRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIConstants.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/NUIConstants.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIControlRenderer.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Renderers/NUIControlRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIConverter.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/NUIConverter.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIDeclaration.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Parser/NUIDeclaration.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIDefinition.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Parser/NUIDefinition.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIFileMonitor.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/NUIFileMonitor.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIGraphics.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/NUIGraphics.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUILabelRenderer.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Renderers/NUILabelRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIMediaBlock.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Parser/NUIMediaBlock.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIMediaOptionSet.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Parser/NUIMediaOptionSet.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUINavigationBarRenderer.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Renderers/NUINavigationBarRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUINavigationItemRenderer.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Renderers/NUINavigationItemRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIParserDelegate.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Parser/NUIParserDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIProgressViewRenderer.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Renderers/NUIProgressViewRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIRenderer.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/NUIRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIRuleSet.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Parser/NUIRuleSet.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUISearchBarRenderer.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Renderers/NUISearchBarRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUISegmentedControlRenderer.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Renderers/NUISegmentedControlRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUISelectorSet.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Parser/NUISelectorSet.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUISettings.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/NUISettings.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUISliderRenderer.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Renderers/NUISliderRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIStyleParser.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/NUIStyleParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIStyleSheet.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Parser/NUIStyleSheet.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIStyleSheetItem.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Parser/NUIStyleSheetItem.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUISwitchRenderer.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Renderers/NUISwitchRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUISwizzler.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/NUISwizzler.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUITabBarItemRenderer.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Renderers/NUITabBarItemRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUITabBarRenderer.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Renderers/NUITabBarRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUITableViewCellRenderer.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Renderers/NUITableViewCellRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUITableViewRenderer.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Renderers/NUITableViewRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUITextFieldRenderer.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Renderers/NUITextFieldRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUITextViewRenderer.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Renderers/NUITextViewRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUITokeniserDelegate.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Parser/NUITokeniserDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIToolbarRenderer.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Renderers/NUIToolbarRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIUtilities.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/NUIUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIVariableToken.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Parser/NUIVariableToken.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIViewRenderer.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Renderers/NUIViewRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIWindowRenderer.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/Core/Renderers/NUIWindowRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIBarButtonItem+NUI.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/UI/UIBarButtonItem+NUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+NUI.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/UI/UIButton+NUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIControl+NUI.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/UI/UIControl+NUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UILabel+NUI.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/UI/UILabel+NUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UINavigationBar+NUI.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/UI/UINavigationBar+NUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UINavigationItem+NUI.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/UI/UINavigationItem+NUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIProgressView+NUI.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/UI/UIProgressView+NUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UISearchBar+NUI.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/UI/UISearchBar+NUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UISegmentedControl+NUI.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/UI/UISegmentedControl+NUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UISlider+NUI.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/UI/UISlider+NUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UISwitch+NUI.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/UI/UISwitch+NUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITabBar+NUI.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/UI/UITabBar+NUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITabBarItem+NUI.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/UI/UITabBarItem+NUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITableView+NUI.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/UI/UITableView+NUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITableViewCell+NUI.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/UI/UITableViewCell+NUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITextField+NUI.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/UI/UITextField+NUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITextView+NUI.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/UI/UITextView+NUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIToolbar+NUI.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/UI/UIToolbar+NUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+NUI.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/UI/UIView+NUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIWindow+NUI.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUI/NUI/UI/UIWindow+NUI.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/abakus13/Desktop/NUI_Custom/build/Debug-iphonesimulator/NUI.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/build/Pods.build/Debug-iphonesimulator/NUI.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/abakus13/Desktop/NUI_Custom/build/Debug-iphonesimulator/NUIParse.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSArray+NUIFunctional.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/NSArray+NUIFunctional.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSSet+NUIFunctional.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/NSSet+NUIFunctional.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPEOFToken.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Tokenisation/Token Types/NUIPEOFToken.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPErrorToken.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Tokenisation/Token Types/NUIPErrorToken.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPGrammar.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Grammar/NUIPGrammar.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPGrammarInternal.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Grammar/NUIPGrammarInternal.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPGrammarPrivate.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Grammar/NUIPGrammarPrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPGrammarSymbol.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Grammar/NUIPGrammarSymbol.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPIdentifierRecogniser.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Tokenisation/Token Recognisers/NUIPIdentifierRecogniser.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPIdentifierToken.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Tokenisation/Token Types/NUIPIdentifierToken.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPItem.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Parsers/NUIPShiftReduceParsers/NUIPItem.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPJSONParser.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Built In Parsers/NUIPJSONParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPKeywordRecogniser.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Tokenisation/Token Recognisers/NUIPKeywordRecogniser.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPKeywordToken.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Tokenisation/Token Types/NUIPKeywordToken.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPLALR1Parser.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Parsers/NUIPShiftReduceParsers/NUIPLALR1Parser.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPLR1Item.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Parsers/NUIPShiftReduceParsers/NUIPLR1Item.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPLR1Parser.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Parsers/NUIPShiftReduceParsers/NUIPLR1Parser.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPNumberRecogniser.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Tokenisation/Token Recognisers/NUIPNumberRecogniser.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPNumberToken.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Tokenisation/Token Types/NUIPNumberToken.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPParser.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Parsers/NUIPParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPQuotedRecogniser.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Tokenisation/Token Recognisers/NUIPQuotedRecogniser.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPQuotedToken.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Tokenisation/Token Types/NUIPQuotedToken.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPRHSItem+Private.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Grammar/NUIPRHSItem+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPRHSItem.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Grammar/NUIPRHSItem.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPRHSItemResult.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Grammar/NUIPRHSItemResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPRecoveryAction.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Parsers/Error Recovery/NUIPRecoveryAction.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPRegexpRecogniser.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Tokenisation/Token Recognisers/NUIPRegexpRecogniser.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPRule+Internal.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Grammar/NUIPRule+Internal.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPRule.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Grammar/NUIPRule.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPSLRParser.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Parsers/NUIPShiftReduceParsers/NUIPSLRParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPShiftAction.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Parsers/NUIPShiftReduceParsers/NUIPShiftAction.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPShiftReduceAction.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Parsers/NUIPShiftReduceParsers/NUIPShiftReduceAction.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPShiftReduceActionTable.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Parsers/NUIPShiftReduceParsers/NUIPShiftReduceActionTable.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPShiftReduceGotoTable.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Parsers/NUIPShiftReduceParsers/NUIPShiftReduceGotoTable.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPShiftReduceParser.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Parsers/NUIPShiftReduceParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPShiftReduceParserProtectedMethods.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Parsers/NUIPShiftReduceParsers/NUIPShiftReduceParserProtectedMethods.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPShiftReduceState.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Parsers/NUIPShiftReduceParsers/NUIPShiftReduceState.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPSyntaxTree.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Syntax Tree/NUIPSyntaxTree.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPToken.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Tokenisation/Token Types/NUIPToken.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPTokenRecogniser.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Tokenisation/Token Recognisers/NUIPTokenRecogniser.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPTokenStream.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Tokenisation/NUIPTokenStream.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPTokeniser.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Tokenisation/NUIPTokeniser.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPWhiteSpaceRecogniser.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Tokenisation/Token Recognisers/NUIPWhiteSpaceRecogniser.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIPWhiteSpaceToken.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/Tokenisation/Token Types/NUIPWhiteSpaceToken.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIParse-Swift.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/build/Debug-iphonesimulator/NUIParse.framework/Headers/NUIParse-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIParse-umbrella.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/Target Support Files/NUIParse/NUIParse-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "NUIParse.h",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/Pods/NUIParse/NUIParse/NUIParse.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/abakus13/Desktop/NUI_Custom/build/Debug-iphonesimulator/NUIParse.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/abakus13/Desktop/NUI_Custom/build/Pods.build/Debug-iphonesimulator/NUIParse.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

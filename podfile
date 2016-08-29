@@ -1,0 +1,6 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target "NUI" do
+pod "NUI", :git => 'https://github.com/peantunes/nui.git'
+end
